@@ -10,7 +10,9 @@
             "email": "712042812@qq.com"
         }
     ],
-    "require": {},
+    "require": {
+    	"php": "^5.3.3 || ^7.0",
+    },
     "minimum-stability": "dev",
     "autoload":{
         "psr-4":{

@@ -1,0 +1,20 @@
+{
+    "name": "makcent/wxmsg",
+    "description": "this is wechat message decryption",
+    "keyword":["wechat","message","extension"],
+    "type": "library",
+    "license":"MIT",
+    "authors": [
+        {
+            "name": "久居你心",
+            "email": "712042812@qq.com"
+        }
+    ],
+    "require": {},
+    "minimum-stability": "dev",
+    "autoload":{
+        "psr-4":{
+            "makcent\\wxmsg\\":"src"
+        }
+    }
+}

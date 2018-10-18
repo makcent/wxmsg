@@ -13,7 +13,6 @@
     "require": {
     	"php": "^5.3.3"
     },
-    "minimum-stability": "dev",
     "autoload":{
         "psr-4":{
             "makcent\\wxmsg\\":"src"
